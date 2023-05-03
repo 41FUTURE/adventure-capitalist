@@ -54,7 +54,7 @@ const businesses = {
     profit: 20000,
     icon: 'donut.png',
   },
-  Convenience_store: {
+  convenience_store: {
     id: '7-11',
     order: 6,
     name: '7-11',
