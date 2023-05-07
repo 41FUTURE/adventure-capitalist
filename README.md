@@ -10,7 +10,7 @@ Trade-offs<br>
 Future Improvements<br>
 Credits<br>
 Demo<br>
-A live demo of the game can be accessed at <a href="https://41future.github.io/spec-adventurecapitalist.github.io/">https://41future.github.io/spec-adventurecapitalist.github.io/</a></p>
+A live demo of the game can be accessed at <a href="https://41future.github.io/adventure-capitalist/"></a></p>
 <p class="has-line-data" data-line-start="14" data-line-end="16">Features<br>
 This game offers the following features:</p>
 <p class="has-line-data" data-line-start="17" data-line-end="23">Responsive design that works on desktop, tablet, and mobile devices.<br>
